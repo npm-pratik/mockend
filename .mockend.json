@@ -1,0 +1,7 @@
+{
+  "Task": {
+    "id": "int",
+    "title": "string",
+    "status": "boolean"
+  }
+}
