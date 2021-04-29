@@ -3,5 +3,11 @@
     "id": "int",
     "title": "string",
     "status": "boolean"
+  },
+  "Employee": {
+    "id": "int",
+    "name": "string",
+    "dob": "date",
+    "married": "boolean"
   }
 }
